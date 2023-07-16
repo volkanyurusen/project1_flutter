@@ -1,0 +1,9 @@
+export './discover_body_tab_bar_content_detail_area.dart';
+export 'user_card_detail_body_about_user_area.dart';
+export 'user_card_detail_body_amount_box_area.dart';
+export 'user_card_detail_body_attend_the_activity_button_area.dart';
+export 'user_card_detail_body_chosen_activity_area.dart';
+export 'user_card_detail_body_follows_and_likes_area.dart';
+export 'user_card_detail_body_profile_photo_area.dart';
+export 'user_card_detail_body_recent_activity_area.dart';
+export 'user_card_detail_body_username_area.dart';

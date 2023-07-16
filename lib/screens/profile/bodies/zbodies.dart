@@ -1,0 +1,13 @@
+export '../body_areas/zareas.dart';
+export './profile_body.dart';
+export './personal_details_body.dart';
+export './user_type_details_body.dart';
+export './payment_details_body.dart';
+export './chosen_user_type_body.dart';
+export './user_types_body.dart';
+export './coaching_details_body.dart';
+export './coaching_types_body.dart';
+export './chosen_coaching_type_body.dart';
+export './coaching_type_details_body.dart';
+export './location_details_body.dart';
+export './activity_preferences_body.dart';
